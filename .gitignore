@@ -1,0 +1,9 @@
+*.tgz
+yarn-error.log*
+*.log
+build/
+npm-debug.log*
+.pnpm-store/
+dist/
+.cache/
+node_modules/
